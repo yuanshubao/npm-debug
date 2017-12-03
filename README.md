@@ -1,6 +1,6 @@
 # debug模块
 
-我总结的编程境界有3
+我（i5ting）总结的编程境界有3等
 
 - 打日志，console.log
 - 断点，debug
@@ -17,5 +17,4 @@
 - debug实例
 - 业务场景高级玩法
 - debug转日志
-- 八卦：express和debug的关系么
-
+- 八卦：express和debug的关系，为什么你写不出来？
